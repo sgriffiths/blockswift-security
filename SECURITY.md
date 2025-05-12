@@ -5,7 +5,7 @@
 BlockSwift takes security seriously. If you discover a security vulnerability, please follow these steps:
 
 1. **Do not disclose the vulnerability publicly**
-2. Email details to security@blockswift.com.au
+2. Email details to contact@blockswift.com.au
 3. Include a description of the vulnerability and steps to reproduce if possible
 4. We will acknowledge receipt within 24 hours
 5. We will provide updates on the resolution timeline

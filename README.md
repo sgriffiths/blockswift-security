@@ -22,9 +22,11 @@ As a professional Solana validator based in Australia, BlockSwift implements com
 
 ## Contact
 
-For security concerns or inquiries, please contact us at security@blockswift.com.au
+For security concerns or inquiries, please contact us at contact@blockswift.com.au
 
 ## Validator Information
 
-- Validator Identity: 7co7QZAXoDrB95hZGHKKyLjQNcdojG4utxzsAiVLh1No
+- Mainnet Validator Pubkey: 6edQLD1MzrWbNRFKfNBz2jkzxgDP2YzeHnw7tqZRovaa
+- Testnet Validator Pubkey: FnMPwPyYk8AwZgC32ceKd8iMeSNUsFshBFiZnwNU85ch
+- BlockSwift Wallet: 7co7QZAXoDrB95hZGHKKyLjQNcdojG4utxzsAiVLh1No
 - Website: https://www.blockswift.com.au
