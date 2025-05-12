@@ -22,7 +22,7 @@ As a professional Solana validator based in Australia, BlockSwift implements com
 
 ## Contact
 
-For security concerns or inquiries, please contact us at contact@blockswift.com.au
+For security concerns or inquiries, please contact us at security@blockswift.com.au
 
 ## Validator Information
 
