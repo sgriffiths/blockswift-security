@@ -12,11 +12,12 @@ BlockSwift operates its Solana validator node in an enterprise-grade data center
 ## Server Hardware
 
 Our validator runs on enterprise-grade hardware with the following specifications:
-- HP DL380 Gen9 server
-- 32 Core Xeon E5-2683 v4 (2 CPUs)
-- 512GB DDR4 RAM
-- Redundant power supplies
-- RAID configuration for drive redundancy
+- Enterprise-class server hardware
+- Multi-core server processors optimized for blockchain validation
+- High-capacity ECC memory configuration
+- Redundant power supplies for continuous operation
+- RAID storage configuration for data integrity
+- Dual 10Gbps network interfaces for high-throughput connectivity
 
 ## Physical Access Protocols
 
